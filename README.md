@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Vinay+kelur;Data+engineer)](https://git.io/typing-svg)
 
 ### ☕ CONNECT WITH ME 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinay-kelur)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kelur-5116b7254)
 
 <!--
 **Vinay-kelur/Vinay-kelur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
