@@ -4,6 +4,17 @@
 ### ☕ CONNECT WITH ME 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kelur-5116b7254)
 
+ ## 📈 Profile Stats
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Vinay-kelur&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-kelur&layout=compact&theme=dark" alt="Top Languages" />
+
+<!-- Profile Views Badge -->
+[![Profile Views](https://komarev.com/ghpvc/?username=Vinay-kelur&style=for-the-badge&color=blue)](https://github.com/Vinay-kelur)
+
 <!--
 **Vinay-kelur/Vinay-kelur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
